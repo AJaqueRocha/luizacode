@@ -13,12 +13,12 @@
 # Remover apneas os inteiros da lista
 lista = ['banana', 'caju', 'melão', 5, 'pêra', 10]
 
-# list_new = []
+list_new = []
 
-# for elemento in lista:
-#     if type(elemento) != int:
-#         lista.pop()
-#     print(index)
+for elemento in lista:
+    if type(elemento) != int:
+        lista.pop()
+    print(index)
 
 
 # lista = [0, 5, 8, 10, 35, 5, 7, 4, 12, 22, 3, 2, 9, 1]
