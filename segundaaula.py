@@ -9,16 +9,32 @@
 # valor_cada_morador = valor_energia / qtdade_moradores
 # print(valor_cada_morador)
 
+# Conversão Implícita
+a = 15
+print(f'A variável a é do tipo: {type(a)}')
+
+b = 10.6
+a = a + b
+print(f'Valor da soma: {a}')
+
+print(f'A variável a é do tipo: {type(a)}')
+
+
+
+
+
 
 # Remover apneas os inteiros da lista
-lista = ['banana', 'caju', 'melão', 5, 'pêra', 10]
+# from operator import index
 
-list_new = []
+# lista = ['banana', 'caju', 'melão', 5, 'pêra', 10]
 
-for elemento in lista:
-    if type(elemento) != int:
-        lista.pop()
-    print(index)
+# list_new = []
+
+# for elemento in lista:
+#     if type(elemento) != int:
+#         lista.pop(index)
+#     print(list_new)
 
 
 # lista = [0, 5, 8, 10, 35, 5, 7, 4, 12, 22, 3, 2, 9, 1]
