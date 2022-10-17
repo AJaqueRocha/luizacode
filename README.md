@@ -1,3 +1,3 @@
 # luizacode
 
-## Repositório dos exercícios do Bootcamp Luiza Code# calculodivisaoaluguel
+## Repositório dos exercícios do Bootcamp Luiza Code
